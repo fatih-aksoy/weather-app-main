@@ -2,7 +2,7 @@
 
 ## DEMO
 
-[]()
+[https://main--weather-app-react-completed.netlify.app/](https://main--weather-app-react-completed.netlify.app/)
 
 
 ### At the end of the project, following topics are to be covered;
